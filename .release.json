@@ -36,10 +36,10 @@
     },
     "dist": {
       "status": false,
-      "commit": true,
-      "tag": true,
-      "push": true,
-      "release": true,
+      "commit": false,
+      "tag": false,
+      "push": false,
+      "release": false,
       "publish": false
     }
   }
